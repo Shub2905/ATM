@@ -9,7 +9,7 @@ public class Pin
 public static void Pin_Check() // TO check if Enter Pin is Valid 
 
 {
-	int DPin = 0000;
+	int DPin = 000;
 	System.out.println("Please Enter Your Pin Number");
 	Scanner sc =new Scanner(System.in);
 	int PIN = sc.nextInt();	
